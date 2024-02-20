@@ -1,5 +1,7 @@
 ## Getting Started
 
+本地端使用
+
 First, install the dependencies:
 
 ```bash
@@ -26,4 +28,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-部署至 netlify，預設使用一般註冊帳戶皆有後台管理權限
+已部署至 vercel，預設使用一般註冊帳戶皆有後台管理權限
+可透過此連結進入
+https://brainstorming-app.vercel.app/
